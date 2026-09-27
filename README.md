@@ -44,3 +44,16 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
+# SimpleWEBSever
+
+## Student Details
+Name: Stephy Paul
+Register Number: 26009610
+
+## EX01 Developing a Simple Webserver
+
+### Date:
+27-09-2026
+
+### AIM:
+To develop a simple webserver to serve HTML pages and display the Device Specifications of your Laptop.
